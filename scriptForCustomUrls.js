@@ -77,6 +77,7 @@ const redirects = [
   ["https://www.code8home.com/perspective-css-function-of-transform", "https://www.code8home.com/2022/11/perspective-css-function-of-transform.html"],
   ["https://www.code8home.com/html-editor", "https://www.code8home.com/2022/11/html-editor.html"]
 ];
+
 const currentUrl = window.location.href;
 
 redirects.forEach(redirect => {
